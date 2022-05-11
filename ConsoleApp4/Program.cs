@@ -20,10 +20,6 @@ namespace ConsoleApp4
             string[] peoples = { "Вася", "Катя", "Петя",
             "Артем", "Валерия", "Гриша", "Марина"};
 
-            for (int i =0; i < peoples.Length; i++)
-            {
-                Console.WriteLine(peoples[i]);
-            }
 
 
         }
